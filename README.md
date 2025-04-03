@@ -87,10 +87,11 @@ Gesture_Keyboard/
 - 仅支持单只手势输入
 
 ## 运行界面
-![image](https://github.com/user-attachments/assets/977c6b8e-2e91-47e6-b108-83cf8ffec65a)
-![imag![Uploading ae7609f6b46fac18873184be4747b5f.jpg…]()
-e](https://github.com/user-attachments/assets/19b77c65-9e2a-4586-b1d2-f5e40be745f2)
-![c0435a3fc6bfeeb41ee31674d4382bc](https://github.com/user-attachments/assets/761bdcd9-8d1e-404f-859d-3c5bc1379e91)
+![image](https://github.com/user-attachments/assets/bdefd1ce-e28e-4632-89d7-390d76db0501)
+![image](https://github.com/user-attachments/assets/2316690d-e681-45ab-bfb5-6b19fd33b48a)
+![ae7609f6b46fac18873184be4747b5f](https://github.com/user-attachments/assets/fbeace66-4f03-41b8-899e-932dcf8babde)
+
+
 
 
 
