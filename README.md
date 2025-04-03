@@ -86,6 +86,12 @@ Gesture_Keyboard/
 - 复杂背景可能影响识别
 - 仅支持单只手势输入
 
+## 运行界面
+![image](https://github.com/user-attachments/assets/977c6b8e-2e91-47e6-b108-83cf8ffec65a)
+![imag![Uploading ae7609f6b46fac18873184be4747b5f.jpg…]()
+e](https://github.com/user-attachments/assets/19b77c65-9e2a-4586-b1d2-f5e40be745f2)
+
+
 ## 🤝 如何贡献
 
 欢迎提交：
