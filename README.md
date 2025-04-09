@@ -1,4 +1,4 @@
-
+‘
 # 手势控制虚拟键盘 ✋⌨️
 
 ![Python版本](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -41,7 +41,7 @@ pip install opencv-python mediapipe keyboard pillow
 
 ### 启动程序
 ```bash
-python gesture_keyboard.py
+python main.py
 ```
 
 ## 🎮 操作指南
@@ -69,7 +69,7 @@ gesture_directions = ["左上", "左", "左下", "上", "下", "右上", "右", 
 ## 📂 项目结构
 ```
 Gesture_Keyboard/
-├── gesture_keyboard.py    # 主程序
+├── main.py    # 主程序
 └── README.md
 ```
 
