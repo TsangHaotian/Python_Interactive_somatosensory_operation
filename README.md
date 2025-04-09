@@ -1,4 +1,4 @@
-‘
+‘‘
 # 手势控制虚拟键盘 ✋⌨️
 
 ![Python版本](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -58,13 +58,6 @@ python main.py
 3. **镜像模式**：
    - 点击"切换镜像模式"按钮适配左右手
 
-## ⚙️ 配置文件
-
-通过修改代码常量自定义：
-```python
-LONG_PRESS_THRESHOLD = 1.0  # 长按触发时间(秒)
-gesture_directions = ["左上", "左", "左下", "上", "下", "右上", "右", "右下"]
-```
 
 ## 📂 项目结构
 ```
